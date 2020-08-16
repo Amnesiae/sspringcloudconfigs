@@ -1,0 +1,2 @@
+# sspringcloudconfigs
+用来存放测试springcloud配置仓库
